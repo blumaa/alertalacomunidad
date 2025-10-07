@@ -1,0 +1,84 @@
+{
+  "header": {
+    "title": "Alerta La Comunidad",
+    "tagline": "Contra ICE",
+    "signUp": "Registrarse",
+    "about": "Acerca de",
+    "language": "Español"
+  },
+  "disclaimer": {
+    "title": "AVISO IMPORTANTE",
+    "text": "Las alertas se basan en reportes de la comunidad no verificados. Esta aplicación no provee asesoría legal.",
+    "link": "Más información"
+  },
+  "alert": {
+    "button": "🚨 Alerta La Comunidad",
+    "description": "¿Presenciaste actividad de ICE? Haz clic para enviar una alerta con la ubicación a abogados y miembros de la comunidad que pueden ayudar.",
+    "subscriberCount": "{{count}} personas suscritas"
+  },
+  "signUp": {
+    "title": "REGISTRARSE",
+    "emailLabel": "Correo Electrónico",
+    "emailPlaceholder": "tu@email.com",
+    "button": "Registrarse",
+    "description": "¿Eres abogado o miembro de la comunidad que quiere ayudar? Regístrate para recibir alertas por correo electrónico cuando alguien reporte actividad de ICE. Cada alerta incluirá la dirección del incidente."
+  },
+  "addressInput": {
+    "title": "Ingresa la dirección",
+    "label": "Dirección",
+    "placeholder": "Ej: 123 Main St esquina Oak Ave, Chicago",
+    "helperText": "Sé lo más específico posible (dirección, esquina, punto de referencia)",
+    "cancel": "Cancelar",
+    "continue": "Continuar"
+  },
+  "confirmation": {
+    "title": "Confirmar Alerta",
+    "question": "¿Enviar alerta a {{count}} suscriptores?",
+    "location": "Ubicación",
+    "reminder": "Recuerda: Solo reporta actividad que realmente estás presenciando.",
+    "cancel": "Cancelar",
+    "send": "Enviar Alerta"
+  },
+  "toast": {
+    "alertSent": "¡Alerta enviada a {{count}} personas!",
+    "rateLimitError": "Espera {{time}} antes de enviar otra alerta",
+    "networkError": "Error al enviar. Verifica tu conexión.",
+    "signUpSuccess": "¡Revisa tu email para confirmar!",
+    "invalidEmail": "Por favor ingresa un email válido"
+  },
+  "countdown": {
+    "nextAlert": "Próxima alerta disponible en {{time}}"
+  },
+  "about": {
+    "title": "Acerca de Alerta La Comunidad",
+    "mission": {
+      "title": "Nuestra Misión",
+      "text": "Alerta La Comunidad es una herramienta creada para ayudar a las comunidades a protegerse mutuamente. Cuando alguien presencia actividad de ICE, puede enviar una alerta instantánea con la ubicación a abogados y miembros de la comunidad que pueden ayudar."
+    },
+    "howItWorks": {
+      "title": "Cómo Funciona",
+      "step1": "1. Un testigo presencia actividad de ICE y presiona el botón de alerta",
+      "step2": "2. Ingresa la dirección o ubicación específica del incidente",
+      "step3": "3. Confirma y envía la alerta a todos los suscriptores",
+      "step4": "4. Los abogados y miembros de la comunidad reciben un correo electrónico inmediato con la ubicación"
+    },
+    "privacy": {
+      "title": "Privacidad y Seguridad",
+      "text1": "No rastreamos tu ubicación GPS - tú ingresas la dirección manualmente",
+      "text2": "No almacenamos información personal de los alertadores",
+      "text3": "Todas las alertas son anónimas para proteger a los testigos"
+    },
+    "safety": {
+      "title": "Consejos de Seguridad",
+      "tip1": "Solo reporta si estás en un lugar seguro",
+      "tip2": "Sé lo más específico posible con las ubicaciones (dirección, esquina, puntos de referencia)",
+      "tip3": "Nunca confrontes directamente a agentes de ICE"
+    },
+    "legal": {
+      "title": "Aviso Legal",
+      "text1": "Esta aplicación no provee asesoría legal",
+      "text2": "Las alertas se basan en reportes de la comunidad no verificados",
+      "text3": "Úsala bajo tu propio riesgo y criterio"
+    }
+  }
+}

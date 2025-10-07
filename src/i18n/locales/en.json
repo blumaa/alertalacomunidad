@@ -1,0 +1,84 @@
+{
+  "header": {
+    "title": "Alert the Community",
+    "tagline": "Against ICE",
+    "signUp": "Sign Up",
+    "about": "About",
+    "language": "English"
+  },
+  "disclaimer": {
+    "title": "IMPORTANT NOTICE",
+    "text": "Alerts are based on unverified community reports. This app does not provide legal advice.",
+    "link": "More information"
+  },
+  "alert": {
+    "button": "🚨 Alert the Community",
+    "description": "Witnessed ICE activity? Click to send an alert with the location to lawyers and community members who can help.",
+    "subscriberCount": "{{count}} people subscribed"
+  },
+  "signUp": {
+    "title": "SIGN UP",
+    "emailLabel": "Email Address",
+    "emailPlaceholder": "your@email.com",
+    "button": "Sign Up",
+    "description": "Are you a lawyer or community member who wants to help? Sign up to receive email alerts when someone reports ICE activity. Each alert will include the incident address."
+  },
+  "addressInput": {
+    "title": "Enter address",
+    "label": "Address",
+    "placeholder": "Ex: 123 Main St at Oak Ave, Chicago",
+    "helperText": "Be as specific as possible (address, cross street, landmark)",
+    "cancel": "Cancel",
+    "continue": "Continue"
+  },
+  "confirmation": {
+    "title": "Confirm Alert",
+    "question": "Send alert to {{count}} subscribers?",
+    "location": "Location",
+    "reminder": "Remember: Only report activity you are actually witnessing.",
+    "cancel": "Cancel",
+    "send": "Send Alert"
+  },
+  "toast": {
+    "alertSent": "Alert sent to {{count}} people!",
+    "rateLimitError": "Wait {{time}} before sending another alert",
+    "networkError": "Error sending. Check your connection.",
+    "signUpSuccess": "Check your email to confirm!",
+    "invalidEmail": "Please enter a valid email"
+  },
+  "countdown": {
+    "nextAlert": "Next alert available in {{time}}"
+  },
+  "about": {
+    "title": "About Alert the Community",
+    "mission": {
+      "title": "Our Mission",
+      "text": "Alert the Community is a tool created to help communities protect each other. When someone witnesses ICE activity, they can send an instant alert with the location to lawyers and community members who can help."
+    },
+    "howItWorks": {
+      "title": "How It Works",
+      "step1": "1. A witness sees ICE activity and presses the alert button",
+      "step2": "2. Enters the specific address or location of the incident",
+      "step3": "3. Confirms and sends the alert to all subscribers",
+      "step4": "4. Lawyers and community members receive an immediate email with the location"
+    },
+    "privacy": {
+      "title": "Privacy and Security",
+      "text1": "We don't track your GPS location - you manually enter the address",
+      "text2": "We don't store personal information of alert senders",
+      "text3": "All alerts are anonymous to protect witnesses"
+    },
+    "safety": {
+      "title": "Safety Tips",
+      "tip1": "Only report if you're in a safe location",
+      "tip2": "Be as specific as possible with locations (address, cross street, landmarks)",
+      "tip3": "Never directly confront ICE agents"
+    },
+    "legal": {
+      "title": "Legal Disclaimer",
+      "text1": "This application does not provide legal advice",
+      "text2": "Alerts are based on unverified community reports",
+      "text3": "Use at your own risk and discretion"
+    }
+  }
+}
